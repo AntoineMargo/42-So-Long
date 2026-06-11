@@ -7,6 +7,8 @@ Simple 2D tile-based game for the 42 school project "so_long" built in C.
 - Minimal tile-based game where the player navigates a map, collects items, and reaches the exit.
 - Maps are provided in the `maps/` folder with the `.ber` extension.
 
+![Screenshot](.screenshots/screenshot.png)
+
 **Requirements**
 - Unix-like OS (Linux recommended for this repo).
 - C compiler: `cc` (Makefile uses `cc`).
